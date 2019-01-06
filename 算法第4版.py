@@ -4,6 +4,7 @@
 from TestCase import sorted_nums, random_nums
 
 
+
 # # 插入排序
 # class Insertion:
 #     @staticmethod
